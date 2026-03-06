@@ -1,4 +1,4 @@
-CLM26-Regime-Classification-Lab
+HMM-fCL2: Hidden Markov Model with Position Sizing and Regime Duration Tool for CL2 (formerly CLM26-Regime-Classification-Lab)
 
 ---
 
