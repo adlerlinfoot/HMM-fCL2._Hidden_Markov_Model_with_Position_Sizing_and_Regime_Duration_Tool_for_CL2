@@ -4,7 +4,7 @@ HMM-fCL2: Hidden Markov Model with Position Sizing and Regime Duration Tool for 
 
 Reproducible pipeline for classifying volatility-trend regimes in crude oil futures (CL2) and evaluating in a simple regime-aware trading overlay.
 
-Of note, this project is part of an ongoing research series exploring regime-based modeling and market structure.
+Note, this project is part of an ongoing research series exploring regime-based modeling and market structure.
 
 OVERVIEW
 This project builds a 4-state market regime model using CL2 continuous futures and DXY.  
